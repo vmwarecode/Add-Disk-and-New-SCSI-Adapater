@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>UTF-16</comment>
+<entry key="vso-build-nb">3310137</entry>
+<entry key="pkg-description">Add the next SCSI controller and create a disk</entry>
+<entry key="pkg-name">extendingclouds.scsi-hdd</entry>
+<entry key="used-plugins">VC#6.0.2</entry>
+<entry key="pkg-signer">O=VMware,OU=Unknow,CN=vCO va-vra.biteback.records 75e5b998-9dca-490e-b289-c43abbf4c33c</entry>
+<entry key="pkg-owner">O=VMware,OU=Unknow,CN=vCO va-vra.biteback.records 867cd31e-c31f-41b0-85ce-a479ed21cbd0</entry>
+<entry key="vso-version">7.0.0.3310137</entry>
+<entry key="pkg-id">ff808081531b1d9601532dfe80f92019</entry>
+</properties>
